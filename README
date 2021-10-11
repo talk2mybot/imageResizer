@@ -1,0 +1,6 @@
+Created by Christian Vizcarra
+
+La app puede ser cargada desde cmd de python de la siguiente forma:
+
+./pythonrepo> pyhton imageresizer
+
