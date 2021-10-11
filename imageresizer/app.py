@@ -72,6 +72,5 @@ def loadUI():
     sys.exit(app.exec_())
 
 
-print __name__
 if __name__ == "__main__" or __name__ == "main":
     loadUI()
